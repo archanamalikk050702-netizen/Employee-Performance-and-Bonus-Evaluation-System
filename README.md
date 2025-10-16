@@ -3,7 +3,8 @@
 **##Case Study Background**
 
 A company, TechNova Solutions, maintains an employee database to calculate employee bonuses based on their salary, performance score, and department. The HR department wants to analyze which employees are eligible for a performance bonus, salary comparisons between employees, and logical decisions based on performance and department criteria. Your task is to write SQL queries using arithmetic, comparison, and logical operators to support these requirements.
-
+[EMPLOYEE CASE STUDY](https://"C:\Users\RAJESH MALIK\OneDrive\Desktop\SQL\SQL_Assignment_Arithmetic_Logical_Comparison_Operators.docx"
+)
 ###"C:\Users\RAJESH MALIK\OneDrive\Desktop\SQL\SQL_Assignment_Arithmetic_Logical_Comparison_Operators.docx"
 
 ##CODING##
