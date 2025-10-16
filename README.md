@@ -1,5 +1,6 @@
 **# Employee-Performance-and-Bonus-Evaluation-System**
 ##CODING##
+
 CREATE TABLE EMPLOYEE (
 employee_id INT PRIMARY KEY,
 first_name VARCHAR(30) NOT NULL,
